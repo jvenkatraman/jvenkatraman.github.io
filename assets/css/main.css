@@ -1624,7 +1624,7 @@ x
 		.image.mini_left {
 			float: left;
 			width: 30%;
-			margin: 0 2em 2em 0;
+			margin: 0 2em 2em 2em;
 		}
 
 		.image.mini_right {
