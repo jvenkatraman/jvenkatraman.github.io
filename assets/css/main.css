@@ -1600,6 +1600,17 @@ x
 			width: 100%;
 		}
 
+		.image.fit_center_right {
+			display: block;
+			float: right;
+			width: 60%;
+		}
+
+		.image.fit_center_left {
+			display: block;
+			width: 60%;
+		}
+
 		.image.left {
 			float: left;
 			margin: 0 2em 2em 0;
@@ -1644,6 +1655,7 @@ x
 			width: 40%;
 			margin: 0 2em 2em 2em;
 		}
+		
 
 /* Button */
 
@@ -2186,7 +2198,7 @@ x
 
 	.dropotron {
 		background: #222835 url("images/overlay.png");
-		background-color: rgba(44, 50, 63, 0.925);
+		background-color: rgba(62, 63, 68, 0.925);
 		padding: 1.25em 1em 1.25em 1em;
 		border-radius: 0.35em;
 		box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
@@ -2308,7 +2320,7 @@ x
 	#footer {
 		background: #282b34 url("images/overlay.png");
 		color: #eee;
-		color: rgba(255, 255, 255, 0.5);
+		color: rgba(255, 255, 255, 0.25);
 		padding-bottom: 6em;
 	}
 
@@ -3017,3 +3029,4 @@ x
 						}
 
 	}
+		
