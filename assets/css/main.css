@@ -1598,6 +1598,7 @@ x
 		.image.fit {
 			display: block;
 			width: 100%;
+			text-align: center;
 		}
 
 		.image.fit_left {
@@ -1605,6 +1606,7 @@ x
 			width: 55%;
 			float: left;
 			margin: 0 2em 2em 0;
+			text-align: center;
 		}
 
 		.image.fit_right {
@@ -1612,11 +1614,13 @@ x
 			width: 55%;
 			float: right;
 			margin: 0 2em 2em 0;
+			text-align: center;
 		}
 
 		.image.left {
 			float: left;
 			margin: 0 2em 2em 0;
+			text-align: center;
 		}
 
 		.image.centered {
@@ -1633,30 +1637,35 @@ x
 			display: block;
 			width: 100%;
 			margin: 0 0 2em 0;
+			text-align: center;
 		}
 
 		.image.mini_left {
 			float: left;
 			width: 30%;
 			margin: 0 2em 2em 2em;
+			text-align: center;
 		}
 
 		.image.mini_right {
 			float: right;
 			width: 30%;
 			margin: 0 2em 2em 2em;
+			text-align: center;
 		}
 
 		.image.medium_left {
 			float: left;
 			width: 40%;
 			margin: 0 2em 2em 2em;
+			text-align: center;
 		}
 
 		.image.medium_right {
 			float: right;
 			width: 40%;
 			margin: 0 2em 2em 2em;
+			text-align: center;
 		}
 		
 
