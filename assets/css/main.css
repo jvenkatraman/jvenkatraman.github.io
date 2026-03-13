@@ -1674,6 +1674,11 @@ x
 			margin: 0 auto 2em auto;
 			text-align: center;
 		}
+
+				.image.centered img {
+				height: auto;
+				width: 100%;
+			}
 		
 
 /* Button */
