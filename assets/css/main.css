@@ -1667,6 +1667,13 @@ x
 			margin: 0 2em 2em 2em;
 			text-align: center;
 		}
+
+		.image.medium_center {
+			float: center;
+			width: 40%;
+			margin: 0 2em 2em 2em;
+			text-align: center;
+		}
 		
 
 /* Button */
