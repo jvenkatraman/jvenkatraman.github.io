@@ -1670,8 +1670,8 @@ x
 
 		.image.medium_center {
 			display: block;
-			width: 40%;
-			margin: 0 0 2em 0;
+			width: 50%;
+			margin: 0 0 2em 2em;
 			text-align: center;
 		}
 		
