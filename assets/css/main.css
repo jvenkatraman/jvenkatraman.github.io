@@ -1671,7 +1671,7 @@ x
 		.image.medium_center {
 			display: block;
 			width: 50%;
-			margin: 0 10em 2em 0;
+			margin: 0 0 2em 0;
 			text-align: center;
 		}
 		
